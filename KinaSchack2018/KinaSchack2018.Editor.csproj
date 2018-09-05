@@ -337,6 +337,10 @@
       <Project>{695C7149-624B-4713-35C7-F62E48AE3ADE}</Project>
       <Name>KinaSchack2018</Name>
     </ProjectReference>
+    <ProjectReference Include="KinaSchack2018.csproj">
+      <Project>{695C7149-624B-4713-35C7-F62E48AE3ADE}</Project>
+      <Name>KinaSchack2018</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Packages\com.unity.standardevents\Editor\Importer.cs" />
